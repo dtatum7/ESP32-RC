@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "proj_library")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbol/proj_library.kicad_sym")(options "")(descr ""))
+  (lib (name "kicad_pool")(type "KiCad")(uri "${KICAD_POOL}/TSW-108-07-T-T.kicad_sym")(options "")(descr ""))
+)
